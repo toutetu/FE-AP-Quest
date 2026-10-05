@@ -1,0 +1,10 @@
+# Claude Code のローカル設定（認証情報などを含む場合があるため公開しない）
+.claude/settings.local.json
+
+# 依存パッケージとビルド結果
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
